@@ -15,7 +15,10 @@ Developed by a dedicated team:
 
 
 
-https://github.com/Parin15675/Project_cpp_2024/assets/149325918/14c81004-2a18-4552-a7e9-29ee18366f59
+
+https://github.com/Parin15675/Project_cpp_2024/assets/149325918/b6a46d4d-b8a8-4c5e-a63e-55fd948a43ef
+
+
 
 
 
