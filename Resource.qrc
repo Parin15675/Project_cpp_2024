@@ -1,0 +1,164 @@
+<RCC>
+    <qresource prefix="/font">
+        <file>Resource_Files/retro_computer_personal_use.ttf</file>
+    </qresource>
+    <qresource prefix="/mainmenu">
+        <file>Resource_Files/botton_add.png</file>
+        <file>Resource_Files/botton_exit.png</file>
+        <file>Resource_Files/loginwindownobox.png</file>
+        <file>Resource_Files/mainmenu_bg_2.png</file>
+        <file>Resource_Files/signupwindownobox.png</file>
+        <file>Resource_Files/botton_game/baccarat_button.gif</file>
+        <file>Resource_Files/botton_game/baccarat_button.png</file>
+        <file>Resource_Files/botton_game/crash_button.gif</file>
+        <file>Resource_Files/botton_game/horse_racing_button.gif</file>
+        <file>Resource_Files/botton_game/penalto_button.gif</file>
+        <file>Resource_Files/botton_team_member.png</file>
+        <file>Resource_Files/TEAM_MEMBER.png</file>
+    </qresource>
+    <qresource prefix="/cards">
+        <file>Resource_Files/Casino_image/Card/2/club_2.gif</file>
+        <file>Resource_Files/Casino_image/Card/2/diamond_2.gif</file>
+        <file>Resource_Files/Casino_image/Card/2/heart_2.gif</file>
+        <file>Resource_Files/Casino_image/Card/2/spade_2.gif</file>
+        <file>Resource_Files/Casino_image/Card/3/club_3.gif</file>
+        <file>Resource_Files/Casino_image/Card/3/diamond_3.gif</file>
+        <file>Resource_Files/Casino_image/Card/3/heart_3.gif</file>
+        <file>Resource_Files/Casino_image/Card/3/spade_3.gif</file>
+        <file>Resource_Files/Casino_image/Card/4/club_4.gif</file>
+        <file>Resource_Files/Casino_image/Card/4/diamond_4.gif</file>
+        <file>Resource_Files/Casino_image/Card/4/heart_4.gif</file>
+        <file>Resource_Files/Casino_image/Card/4/spade_4.gif</file>
+        <file>Resource_Files/Casino_image/Card/5/club_5.gif</file>
+        <file>Resource_Files/Casino_image/Card/5/diamond_5.gif</file>
+        <file>Resource_Files/Casino_image/Card/5/heart_5.gif</file>
+        <file>Resource_Files/Casino_image/Card/5/spade_5.gif</file>
+        <file>Resource_Files/Casino_image/Card/6/club_6.gif</file>
+        <file>Resource_Files/Casino_image/Card/6/diamond_6.gif</file>
+        <file>Resource_Files/Casino_image/Card/6/heart_6.gif</file>
+        <file>Resource_Files/Casino_image/Card/6/spade_6.gif</file>
+        <file>Resource_Files/Casino_image/Card/7/club_7.gif</file>
+        <file>Resource_Files/Casino_image/Card/7/diamond_7.gif</file>
+        <file>Resource_Files/Casino_image/Card/7/heart_7.gif</file>
+        <file>Resource_Files/Casino_image/Card/7/spade_7.gif</file>
+        <file>Resource_Files/Casino_image/Card/8/club_8.gif</file>
+        <file>Resource_Files/Casino_image/Card/8/diamond_8.gif</file>
+        <file>Resource_Files/Casino_image/Card/8/heart_8.gif</file>
+        <file>Resource_Files/Casino_image/Card/8/spade_8.gif</file>
+        <file>Resource_Files/Casino_image/Card/9/club_9.gif</file>
+        <file>Resource_Files/Casino_image/Card/9/diamond_9.gif</file>
+        <file>Resource_Files/Casino_image/Card/9/heart_9.gif</file>
+        <file>Resource_Files/Casino_image/Card/9/spade_9.gif</file>
+        <file>Resource_Files/Casino_image/Card/10/club_10.gif</file>
+        <file>Resource_Files/Casino_image/Card/10/diamond_10.gif</file>
+        <file>Resource_Files/Casino_image/Card/10/heart_10.gif</file>
+        <file>Resource_Files/Casino_image/Card/10/spade_10.gif</file>
+        <file>Resource_Files/Casino_image/Card/A/club_A.gif</file>
+        <file>Resource_Files/Casino_image/Card/A/diamond_A.gif</file>
+        <file>Resource_Files/Casino_image/Card/A/heart_A.gif</file>
+        <file>Resource_Files/Casino_image/Card/A/spade_A.gif</file>
+        <file>Resource_Files/Casino_image/Card/J/club_J.gif</file>
+        <file>Resource_Files/Casino_image/Card/J/diamond_J.gif</file>
+        <file>Resource_Files/Casino_image/Card/J/heart_J.gif</file>
+        <file>Resource_Files/Casino_image/Card/J/spade_J.gif</file>
+        <file>Resource_Files/Casino_image/Card/K/club_K.gif</file>
+        <file>Resource_Files/Casino_image/Card/K/diamond_K.gif</file>
+        <file>Resource_Files/Casino_image/Card/K/heart_K.gif</file>
+        <file>Resource_Files/Casino_image/Card/K/spade_K.gif</file>
+        <file>Resource_Files/Casino_image/Card/Q/club_Q.gif</file>
+        <file>Resource_Files/Casino_image/Card/Q/diamond_Q.gif</file>
+        <file>Resource_Files/Casino_image/Card/Q/heart_Q.gif</file>
+        <file>Resource_Files/Casino_image/Card/Q/spade_Q.gif</file>
+    </qresource>
+    <qresource prefix="/game1">
+        <file>Resource_Files/Casino_image/banker_popup.png</file>
+        <file>Resource_Files/Casino_image/player_popup.png</file>
+        <file>Resource_Files/Casino_image/tie_popup.png</file>
+        <file>Resource_Files/Casino_image/table/poker_table_new.jpg</file>
+    </qresource>
+    <qresource prefix="/chips">
+        <file>Resource_Files/Casino_image/table/chip_1.gif</file>
+        <file>Resource_Files/Casino_image/table/chip_5.gif</file>
+        <file>Resource_Files/Casino_image/table/chip_10_2.gif</file>
+        <file>Resource_Files/Casino_image/table/chip_25.gif</file>
+        <file>Resource_Files/Casino_image/table/chip_50.gif</file>
+        <file>Resource_Files/Casino_image/table/chip_reject.gif</file>
+    </qresource>
+    <qresource prefix="/instructions">
+        <file>Resource_Files/instuction/instuction_crash.png</file>
+        <file>Resource_Files/instuction/instuction_horse.png</file>
+        <file>Resource_Files/instuction/instuction_penelto.png</file>
+        <file>Resource_Files/instuction/Shoe.png</file>
+        <file>Resource_Files/instuction/instuction_botton/bacinstruc.png</file>
+        <file>Resource_Files/instuction/instuction_botton/crashinstruc.png</file>
+        <file>Resource_Files/instuction/instuction_botton/horseinstruc.png</file>
+        <file>Resource_Files/instuction/instuction_botton/pesinst.png</file>
+    </qresource>
+    <qresource prefix="/quitbutton">
+        <file>Resource_Files/quit_botton/bacexit.png</file>
+        <file>Resource_Files/quit_botton/crashexit.png</file>
+        <file>Resource_Files/quit_botton/horseexit.png</file>
+        <file>Resource_Files/quit_botton/pesexit.png</file>
+    </qresource>
+    <qresource prefix="/football">
+        <file>Resource_Files/football/football/football_down_left_new.gif</file>
+        <file>Resource_Files/football/football/football_down_right_new.gif</file>
+        <file>Resource_Files/football/football/football_top_left_new.gif</file>
+        <file>Resource_Files/football/football/football_top_right_new.gif</file>
+        <file>Resource_Files/football/football_still_new.gif</file>
+    </qresource>
+    <qresource prefix="/game3">
+        <file>Resource_Files/football/pitch_new_2.jpg</file>
+        <file>Resource_Files/football/peslosepop.png</file>
+        <file>Resource_Files/football/peswinpop.png</file>
+        <file>Resource_Files/football/target_2.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goal_easy_button.png</file>
+        <file>Resource_Files/football/Goalkeeper/goal_hard_button.png</file>
+    </qresource>
+    <qresource prefix="/goalkeeper">
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_bottom_left_hard_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_bottom_left_hard_win_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_bottom_left_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_bottom_left_win_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_bottom_right_hard_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_bottom_right_hard_win_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_bottom_right_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_bottom_right_win_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_top_left_hard_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_top_left_hard_win_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_top_left_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_top_left_win_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_top_right_hard_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_top_right_hard_win_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_top_right_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_top_right_win_new.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_still.gif</file>
+        <file>Resource_Files/football/Goalkeeper/goalkeeper_still_hard.gif</file>
+    </qresource>
+    <qresource prefix="/game4">
+        <file>Resource_Files/Crash/bg_2.jpeg</file>
+        <file>Resource_Files/Crash/bomb_2.gif</file>
+        <file>Resource_Files/Crash/plane_100.gif</file>
+    </qresource>
+    <qresource prefix="/horsegame">
+        <file>Resource_Files/horse/bluehorse.gif</file>
+        <file>Resource_Files/horse/greenhorse.gif</file>
+        <file>Resource_Files/horse/horsebg.png</file>
+        <file>Resource_Files/horse/horsestadium.png</file>
+        <file>Resource_Files/horse/purplehorse.gif</file>
+        <file>Resource_Files/horse/redhorse.gif</file>
+        <file>Resource_Files/horse/yellohorse.gif</file>
+    </qresource>
+    <qresource prefix="/horsepopup">
+        <file>Resource_Files/horse/popup_win/bluehorsewin.png</file>
+        <file>Resource_Files/horse/popup_win/greenhorsewin.png</file>
+        <file>Resource_Files/horse/popup_win/purhorsewin.png</file>
+        <file>Resource_Files/horse/popup_win/redhorsewin.png</file>
+        <file>Resource_Files/horse/popup_win/yellowhorsewin.png</file>
+        <file>Resource_Files/horse/popup_lose/bluehorselose.png</file>
+        <file>Resource_Files/horse/popup_lose/greenhorselose.png</file>
+        <file>Resource_Files/horse/popup_lose/purhorselose.png</file>
+        <file>Resource_Files/horse/popup_lose/redhorselose.png</file>
+        <file>Resource_Files/horse/popup_lose/yellowhorselose.png</file>
+    </qresource>
+</RCC>
