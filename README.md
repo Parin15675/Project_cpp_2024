@@ -18,7 +18,7 @@ Developed by a dedicated team:
 
 https://github.com/Parin15675/Project_cpp_2024/assets/149325918/b6a46d4d-b8a8-4c5e-a63e-55fd948a43ef
 
-
+![menuGif](https://github.com/Parin15675/Project_cpp_2024/assets/149325918/810c0dd7-ff70-4336-96a0-122e27387aab)
 
 
 
